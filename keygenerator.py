@@ -15,3 +15,4 @@ while i < 24:
 d = list(d)
 random.shuffle(d)
 print("key ",''.join(d))
+input("Press Enter to exit...")
